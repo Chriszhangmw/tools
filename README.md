@@ -83,12 +83,4 @@
 <p align="center"><img width="400" src="graph/student_t.png" /></p>
 
 
-## Author
 
-If you would like to see the details about relationship of distribution probability, please refer to [this](https://en.wikipedia.org/wiki/Relationships_among_probability_distributions).
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Relationships_among_some_of_univariate_probability_distributions.jpg/2880px-Relationships_among_some_of_univariate_probability_distributions.jpg)
-
-- Tae Hwan Jung [@graykode](https://github.com/graykode), Kyung Hee Univ CE(Undergraduate).
-- Author Email : [nlkey2022@gmail.com](mailto:nlkey2022@gmail.com)
-- **If you leave the source, you can use it freely.**
